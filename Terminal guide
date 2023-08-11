@@ -1,0 +1,19 @@
+## <h1>In terminal</h1>
+• npm create astro@latest
+• y to proceed
+• ./tremendous-trappist
+• include sample files
+• install dependencies
+• yes to write typescript
+• Strict
+• Initialize new git repos
+• npm install -g astro
+• npm fund
+• npm run build (error)
+• npm audit fix
+• npm install @astrojs/image
+• npm cache clean --force
+• npx astro clear-cache
+• npm update
+• npm run build 
+• npm run start
