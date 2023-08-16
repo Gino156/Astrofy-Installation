@@ -23,6 +23,9 @@
 • git add
 • git status
 • git branch dev && git switch dev
+• git branch -av
+• git commit -am "Move GooglChrome.html to public directory"
+• git branch -av
 • git push origin dev
 • go to your github account to remote and create a pull request
 • delete
