@@ -17,3 +17,12 @@
 • npm update
 • npm run build 
 • npm run start
+
+## Updating code in GitHub
+• git status
+• git add
+• git status
+• git branch dev && git switch dev
+• git push origin dev
+• go to your github account to remote and create a pull request
+• delete
